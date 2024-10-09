@@ -1,7 +1,3 @@
-Aqui está o README atualizado com o nome correto do projeto:
-
----
-
 # Sistema Bancário
 
 **Sistema Bancário** é um projeto simples em Python para gerenciamento de conta bancária. Permite realizar saques, depósitos e visualizar um extrato de transações.
